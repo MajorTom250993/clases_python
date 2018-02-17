@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "/Users/Yony/.virtualenvs/clases_python/bin/python",
+  "python.linting.pylintArgs": ["--load-plugins=pylint_django"]
+}
